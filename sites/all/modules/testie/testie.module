@@ -28,5 +28,5 @@ function testie_menu(){
  * contents of the "testie" page */
  
 function testie_my_page(){
-	return "<p>This is my testie demo page.</p>";
+	return "<p>This is my true testie demo page.</p>";
 }
